@@ -1,0 +1,2 @@
+# practica6
+procesosFifo
